@@ -1,78 +1,17 @@
 ﻿#EXTM3U
  
-       https://aovivo.gratis/assistir-canais-de-filmes-e-series-ao-vivo/
+      
 
-#EXTINF:-1 tvg-logo="https://aovivo.gratis/wp-content/uploads/2020/05/hbopopb.png" group-title="Filmes e Séries"",HBOPop
-https://edge-aws.aovivotv.xyz/hls/s:78.46.240.155/hbopop_ce09b127_72296e887affc1ad39e3339fff5077c9bab9f2e5/playlist.m3u8?jsf=YTozOntpOjA7czozODoiMjgwNDpkNGI6OWE1Zjo2NDAwOjQwZTU6MzcyNTo5Zjc2OmUzNTQiO2k6MTtzOjc4OiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjo4NC4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94Lzg0LjAiO2k6MjtpOjE2MTE2OTc3NzQ7fQ%3D%3D
-
-#EXTINF:-1 tvg-logo="https://aovivo.gratis/wp-content/uploads/2020/05/hboxtremeb.png" group-title="Filmes e Séries", HBO Xtreme
-https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/hboxtreme_9c676e00_3b06c62ee53db6dbb6ad89f4d10cc5c7fc02aa5d/playlist.m3u8?jsf=YTozOntpOjA7czozODoiMjgwNDpkNGI6OWE1Zjo2NDAwOmE0NjM6NDRmZDoxOGJlOjZiM2UiO2k6MTtzOjc4OiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjo4NC4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94Lzg0LjAiO2k6MjtpOjE2MTE2NzExNzM7fQ%3D%3D
-
-#EXTINF:-1 tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/hbo.png" group-title="Filmes e Séries", HBO
-https://edge-aws.aovivotv.xyz/hls/s:78.46.240.155/hbo_63266754_f3db6b300d5c0aeeaf6a2f8b6a936d0fd8724c07/playlist.m3u8?jsf=YTozOntpOjA7czozODoiMjgwNDpkNGI6OWE1Zjo2NDAwOmE0NjM6NDRmZDoxOGJlOjZiM2UiO2k6MTtzOjc4OiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjo4NC4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94Lzg0LjAiO2k6MjtpOjE2MTE2NzEzMDI7fQ%3D%3D
-
-#EXTINF:-1 tvg-logo="https://aovivo.gratis/wp-content/uploads/2020/05/hbomundib.png" group-title="Filmes e Séries", HBO Mundi
-https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/hbomundi_9f682df2_12b819814dd1b9a1ff3dccd843005fe4fe3b1065/playlist.m3u8?jsf=YTozOntpOjA7czozODoiMjgwNDpkNGI6OWE1Zjo2NDAwOjQwZTU6MzcyNTo5Zjc2OmUzNTQiO2k6MTtzOjc4OiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjo4NC4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94Lzg0LjAiO2k6MjtpOjE2MTE2OTc4NjQ7fQ%3D%3D
-
-#EXTINF:-1 tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/multishowhd.png" group-title="Canais de Música, Filmes e Séries", Canal Multishow HD
-https://edge-aws.aovivotv.xyz/hls/s:78.46.240.155/multishow_5f573b82_e98c338aa21c0ddcf55fd598e782372cf474f752/playlist.m3u8?jsf=YTozOntpOjA7czozODoiMjgwNDpkNGI6OWE1Zjo2NDAwOjQwZTU6MzcyNTo5Zjc2OmUzNTQiO2k6MTtzOjc4OiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjo4NC4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94Lzg0LjAiO2k6MjtpOjE2MTE2OTc5MDY7fQ%3D%3D
+#EXTINF:-1 tvg-logo="https://aovivo.gratis/wp-content/uploads/2020/05/hbopopb.png" group-title="Filmes",01
+https://jetload.net/p/0rmeb7sCkLZr
 
 
 
-
-http://www.melhorsite.xyz/category/filmes/
-
-
-
-
-#EXTINF:-1 tvg-logo="http://www.melhorsite.xyz/wp-content/uploads/2021/01/unnamed-300x176.png" group-title="Filmes e Séries", Tv Caravelas
-https://srv2.zcast.com.br/demosrv2/demosrv2/chunklist_w1203877159.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.melhorsite.xyz/wp-content/uploads/2020/11/Screenshot_2020-06-24-22-22-55-200x118.png" group-title="Filmes e Séries", Londrina TV
-https://stmv1.transmissaodigital.com/clodoaldo7589/clodoaldo7589/chunklist_w1549812673.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.melhorsite.xyz/wp-content/uploads/2020/11/Screenshot_2020-06-02-18-28-37-200x117.png" group-title="Filmes e Séries", TV Manchete Web
-https://srv5.zcast.com.br/tvmanchete/tvmanchete/chunklist_w1311341008.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.melhorsite.xyz/wp-content/uploads/2020/11/Screenshot_2020-06-06-13-35-36-200x118.png" group-title="Filmes e Séries", Canal 29
-https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/chunklist_w205300821.m3u8
+#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="Filmes",02
+https://www.antentri.top/watch_video.php?v=bm5YcjVSREhXUWkwRjd6OHFaVmtHV0M4QnVyVGQ0a2VlYUxUd1R3dENwakQyK1kxOWdacmllZnZ0RllKQThYUA%3D%3D#iss=MTkxLjIxMi4yMzguMTYz
 
 
 
-http://www.cxtv.com.br/tv-ao-vivo/tv-carioca-net
-
-
-
-
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/468a51d6031a373ec56983564ebf9ff8.jpg" group-title="Filmes e Séries", TV CARIOCA.NET
-https://srv5.zcast.com.br/tvcarioca/tvcarioca/chunklist_w1554581632.m3u8
-
-
-
-http://www.olhosnatv.com.br/
-
-
-
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-yTu_7AN5aAo/X9TouEgdJhI/AAAAAAAAD9c/2A1p65GQS6QytmpjaE8_rWrTO8nuYi8EwCLcBGAsYHQ/s0/CANAL%2B29.png" group-title="Filmes e Séries", CANAL 29
-https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/chunklist_w1191719399.m3u8
-
-#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="Filmes e Séries", NOME
-LINK
-
-#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="Filmes e Séries", NOME
-LINK
-
-
-outros
-
-
-
-#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="Filmes e Séries", NOME
-https://streaming.cnnbrasil.com.br/cnndigital_main_Output1.m3u8
-
-#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="Filmes e Séries", NOME
-LINK
 
 #EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="Filmes e Séries", NOME
 LINK
