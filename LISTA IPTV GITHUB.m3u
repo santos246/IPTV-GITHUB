@@ -31,6 +31,46 @@ https://srv2.zcast.com.br/demosrv2/demosrv2/chunklist_w1203877159.m3u8
 #EXTINF:-1 tvg-logo="http://www.melhorsite.xyz/wp-content/uploads/2020/11/Screenshot_2020-06-24-22-22-55-200x118.png" group-title="Filmes e Séries", Londrina TV
 https://stmv1.transmissaodigital.com/clodoaldo7589/clodoaldo7589/chunklist_w1549812673.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.melhorsite.xyz/wp-content/uploads/2020/11/Screenshot_2020-06-02-18-28-37-200x117.png" group-title="Filmes e Séries", TV Manchete Web
+https://srv5.zcast.com.br/tvmanchete/tvmanchete/chunklist_w1311341008.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.melhorsite.xyz/wp-content/uploads/2020/11/Screenshot_2020-06-06-13-35-36-200x118.png" group-title="Filmes e Séries", Canal 29
+https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/chunklist_w205300821.m3u8
+
+
+
+http://www.cxtv.com.br/tv-ao-vivo/tv-carioca-net
+
+
+
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/468a51d6031a373ec56983564ebf9ff8.jpg" group-title="Filmes e Séries", TV CARIOCA.NET
+https://srv5.zcast.com.br/tvcarioca/tvcarioca/chunklist_w1554581632.m3u8
+
+
+
+http://www.olhosnatv.com.br/
+
+
+
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-yTu_7AN5aAo/X9TouEgdJhI/AAAAAAAAD9c/2A1p65GQS6QytmpjaE8_rWrTO8nuYi8EwCLcBGAsYHQ/s0/CANAL%2B29.png" group-title="Filmes e Séries", CANAL 29
+https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/chunklist_w1191719399.m3u8
+
+#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="Filmes e Séries", NOME
+LINK
+
+#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="Filmes e Séries", NOME
+LINK
+
+
+outros
+
+
+
+#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="Filmes e Séries", NOME
+https://streaming.cnnbrasil.com.br/cnndigital_main_Output1.m3u8
+
 #EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="Filmes e Séries", NOME
 LINK
 
@@ -49,23 +89,189 @@ LINK
 #EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="Filmes e Séries", NOME
 LINK
 
-#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="CANAL", NOME
+#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="Filmes e Séries", NOME
 LINK
 
-#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="CANAL", NOME
+#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="Filmes e Séries", NOME
 LINK
 
-#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="CANAL", NOME
+#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="Filmes e Séries", NOME
 LINK
 
-#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="CANAL", NOME
+#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="Filmes e Séries", NOME
 LINK
 
-#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="CANAL", NOME
+#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="Filmes e Séries", NOME
 LINK
 
-#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="CANAL", NOME
+#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="Filmes e Séries", NOME
 LINK
+
+#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="Filmes e Séries", NOME
+LINK
+
+#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="Filmes e Séries", NOME
+LINK
+
+#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="Filmes e Séries", NOME
+LINK
+
+#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="Filmes e Séries", NOME
+LINK
+
+#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="Filmes e Séries", NOME
+LINK
+
+#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="Filmes e Séries", NOME
+LINK
+
+#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="Filmes e Séries", NOME
+LINK
+
+#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="Filmes e Séries", NOME
+LINK
+
+#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="Filmes e Séries", NOME
+LINK
+
+#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="Filmes e Séries", NOME
+LINK
+
+#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="Filmes e Séries", NOME
+LINK
+
+#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="Filmes e Séries", NOME
+LINK
+
+#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="Filmes e Séries", NOME
+LINK
+
+#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="Filmes e Séries", NOME
+LINK
+
+#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="Filmes e Séries", NOME
+LINK
+
+#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="Filmes e Séries", NOME
+LINK
+
+#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="Filmes e Séries", NOME
+LINK
+
+#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="Filmes e Séries", NOME
+LINK
+
+#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="Filmes e Séries", NOME
+LINK
+
+#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="Filmes e Séries", NOME
+LINK
+
+#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="Filmes e Séries", NOME
+LINK
+
+#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="Filmes e Séries", NOME
+LINK
+
+#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="Filmes e Séries", NOME
+LINK
+
+#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="Filmes e Séries", NOME
+LINK
+
+#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="Filmes e Séries", NOME
+LINK
+
+#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="Filmes e Séries", NOME
+LINK
+
+#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="Filmes e Séries", NOME
+LINK
+
+#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="Filmes e Séries", NOME
+LINK
+
+#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="Filmes e Séries", NOME
+LINK
+
+#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="Filmes e Séries", NOME
+LINK
+
+#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="Filmes e Séries", NOME
+LINK
+
+#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="Filmes e Séries", NOME
+LINK
+
+#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="Filmes e Séries", NOME
+LINK
+
+#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="Filmes e Séries", NOME
+LINK
+
+#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="Filmes e Séries", NOME
+LINK
+
+#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="Filmes e Séries", NOME
+LINK
+
+#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="Filmes e Séries", NOME
+LINK
+
+#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="Filmes e Séries", NOME
+LINK
+
+#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="Filmes e Séries", NOME
+LINK
+
+#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="Filmes e Séries", NOME
+LINK
+
+#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="Filmes e Séries", NOME
+LINK
+
+#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="Filmes e Séries", NOME
+LINK
+
+#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="Filmes e Séries", NOME
+LINK
+
+#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="Filmes e Séries", NOME
+LINK
+
+#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="Filmes e Séries", NOME
+LINK
+
+#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="Filmes e Séries", NOME
+LINK
+
+#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="Filmes e Séries", NOME
+LINK
+
+#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="Filmes e Séries", NOME
+LINK
+
+#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="Filmes e Séries", NOME
+LINK
+
+#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="Filmes e Séries", NOME
+LINK
+
+#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="Filmes e Séries", NOME
+LINK
+
+#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="Filmes e Séries", NOME
+LINK
+
+#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="Filmes e Séries", NOME
+LINK
+
+#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="Filmes e Séries", NOME
+LINK
+
+#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="Filmes e Séries", NOME
+LINK
+
 
 #EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="CANAL", NOME
 LINK
