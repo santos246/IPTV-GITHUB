@@ -3,7 +3,7 @@
        https://aovivo.gratis/assistir-canais-de-filmes-e-series-ao-vivo/
 
 #EXTINF:-1 tvg-logo="https://aovivo.gratis/wp-content/uploads/2020/05/hbopopb.png" group-title="Filmes e Séries"",HBOPop
-https://edge-aws.aovivotv.xyz/hls/s:78.47.27.206/hbopop_ce09b127_72296e887affc1ad39e3339fff5077c9bab9f2e5/playlist.m3u8?jsf=YTozOntpOjA7czozODoiMjgwNDpkNGI6OWE1Zjo2NDAwOmE0NjM6NDRmZDoxOGJlOjZiM2UiO2k6MTtzOjc4OiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjo4NC4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94Lzg0LjAiO2k6MjtpOjE2MTE2Njk5NDg7fQ%3D%3D
+https://edge-aws.aovivotv.xyz/hls/s:78.46.240.155/hbopop_ce09b127_72296e887affc1ad39e3339fff5077c9bab9f2e5/playlist.m3u8?jsf=YTozOntpOjA7czozODoiMjgwNDpkNGI6OWE1Zjo2NDAwOjQwZTU6MzcyNTo5Zjc2OmUzNTQiO2k6MTtzOjc4OiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjo4NC4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94Lzg0LjAiO2k6MjtpOjE2MTE2OTc3NzQ7fQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://aovivo.gratis/wp-content/uploads/2020/05/hboxtremeb.png" group-title="Filmes e Séries", HBO Xtreme
 https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/hboxtreme_9c676e00_3b06c62ee53db6dbb6ad89f4d10cc5c7fc02aa5d/playlist.m3u8?jsf=YTozOntpOjA7czozODoiMjgwNDpkNGI6OWE1Zjo2NDAwOmE0NjM6NDRmZDoxOGJlOjZiM2UiO2k6MTtzOjc4OiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjo4NC4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94Lzg0LjAiO2k6MjtpOjE2MTE2NzExNzM7fQ%3D%3D
@@ -12,33 +12,41 @@ https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/hboxtreme_9c676e00_3b06c62ee
 https://edge-aws.aovivotv.xyz/hls/s:78.46.240.155/hbo_63266754_f3db6b300d5c0aeeaf6a2f8b6a936d0fd8724c07/playlist.m3u8?jsf=YTozOntpOjA7czozODoiMjgwNDpkNGI6OWE1Zjo2NDAwOmE0NjM6NDRmZDoxOGJlOjZiM2UiO2k6MTtzOjc4OiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjo4NC4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94Lzg0LjAiO2k6MjtpOjE2MTE2NzEzMDI7fQ%3D%3D
 
 #EXTINF:-1 tvg-logo="https://aovivo.gratis/wp-content/uploads/2020/05/hbomundib.png" group-title="Filmes e Séries", HBO Mundi
-https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/hbomundi_9f682df2_12b819814dd1b9a1ff3dccd843005fe4fe3b1065/playlist.m3u8?jsf=YTozOntpOjA7czozODoiMjgwNDpkNGI6OWE1Zjo2NDAwOmE0NjM6NDRmZDoxOGJlOjZiM2UiO2k6MTtzOjc4OiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjo4NC4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94Lzg0LjAiO2k6MjtpOjE2MTE2NzE0MjA7fQ%3D%3D
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/hbomundi_9f682df2_12b819814dd1b9a1ff3dccd843005fe4fe3b1065/playlist.m3u8?jsf=YTozOntpOjA7czozODoiMjgwNDpkNGI6OWE1Zjo2NDAwOjQwZTU6MzcyNTo5Zjc2OmUzNTQiO2k6MTtzOjc4OiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjo4NC4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94Lzg0LjAiO2k6MjtpOjE2MTE2OTc4NjQ7fQ%3D%3D
 
-#EXTINF:-1 tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/multishowhd.png" group-title="CANAL", Canal Multishow HD
-https://edge-aws.aovivotv.xyz/hls/s:95.216.15.44:81/multishow_5f573b82_e98c338aa21c0ddcf55fd598e782372cf474f752/playlist.m3u8?jsf=YTozOntpOjA7czozODoiMjgwNDpkNGI6OWE1Zjo2NDAwOmE0NjM6NDRmZDoxOGJlOjZiM2UiO2k6MTtzOjc4OiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjo4NC4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94Lzg0LjAiO2k6MjtpOjE2MTE2NzE1ODI7fQ%3D%3D
+#EXTINF:-1 tvg-logo="https://aovivo.gratis/wp-content/uploads/2019/07/multishowhd.png" group-title="Canais de Música, Filmes e Séries", Canal Multishow HD
+https://edge-aws.aovivotv.xyz/hls/s:78.46.240.155/multishow_5f573b82_e98c338aa21c0ddcf55fd598e782372cf474f752/playlist.m3u8?jsf=YTozOntpOjA7czozODoiMjgwNDpkNGI6OWE1Zjo2NDAwOjQwZTU6MzcyNTo5Zjc2OmUzNTQiO2k6MTtzOjc4OiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjo4NC4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94Lzg0LjAiO2k6MjtpOjE2MTE2OTc5MDY7fQ%3D%3D
 
-#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="Canais de Música, Filmes e Séries", NOME
+
+
+
+http://www.melhorsite.xyz/category/filmes/
+
+
+
+
+#EXTINF:-1 tvg-logo="http://www.melhorsite.xyz/wp-content/uploads/2021/01/unnamed-300x176.png" group-title="Filmes e Séries", Tv Caravelas
+https://srv2.zcast.com.br/demosrv2/demosrv2/chunklist_w1203877159.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.melhorsite.xyz/wp-content/uploads/2020/11/Screenshot_2020-06-24-22-22-55-200x118.png" group-title="Filmes e Séries", Londrina TV
+https://stmv1.transmissaodigital.com/clodoaldo7589/clodoaldo7589/chunklist_w1549812673.m3u8
+
+#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="Filmes e Séries", NOME
 LINK
 
-#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="CANAL", NOME
+#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="Filmes e Séries", NOME
 LINK
 
-#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="CANAL", NOME
+#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="Filmes e Séries", NOME
 LINK
 
-#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="CANAL", NOME
+#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="Filmes e Séries", NOME
 LINK
 
-#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="CANAL", NOME
+#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="Filmes e Séries", NOME
 LINK
 
-#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="CANAL", NOME
-LINK
-
-#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="CANAL", NOME
-LINK
-
-#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="CANAL", NOME
+#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="Filmes e Séries", NOME
 LINK
 
 #EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="CANAL", NOME
