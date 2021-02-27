@@ -1,11 +1,46 @@
 ﻿#EXTM3U
  
-     FILMES
+     ANIMES 
 
 
  
-#EXTINF:-1 tvg-logo="https://www.cinemaqualidade.li/wp-content/uploads/2021/02/O-Preco-do-Talento-2019.jpg" group-title="FILMES", O Preço do Talento
-blob:https://mega.nz/9c434eee-bf72-49d3-aa26-18655f9fc52f
+https://desenhosanimados.site/
+
+#EXTINF:-1 tvg-logo="https://desenhosanimados.site/wp-content/uploads/2019/10/a-formiga-atomica-episodio-1-la-vai-a-tri-nica.jpg" group-title="ANIMES", Desenho A Formiga Atómica – Episodio 1 – Lá Vai a Triônica – Online
+https://www.animeson.club/a-formiga-atomica-dublado/42812.mp4
+
+#EXTINF:-1 tvg-logo="https://desenhosanimados.site/wp-content/uploads/2019/10/a-formiga-atomica-episodio-1-la-vai-a-tri-nica.jpg" group-title="ANIMES", Desenho A Formiga Atómica – Episodio 1 – Lá Vai a Triônica – Online
+http://tudogostoso.blog/make/check/?list=f4582bd401b4e0d3
+
+#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="ANIMES", NOME
+LINK
+
+#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="ANIMES", NOME
+LINK
+
+#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="ANIMES", NOME
+LINK
+
+#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="ANIMES", NOME
+LINK
+
+#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="ANIMES", NOME
+LINK
+
+
+
+
+FILMES
+
+
+#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="FILMES", NOME
+LINK
+
+#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="FILMES", NOME
+LINK
+
+#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="FILMES", NOME
+LINK
 
 #EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="FILMES", NOME
 LINK
