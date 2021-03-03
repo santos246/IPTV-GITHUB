@@ -364,26 +364,75 @@ http://rtmp.cdn.upx.net.br/7550/myStream.sdp/chunklist.m3u8?f95fad055a0c3a7836db
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-opsZuKYRSHk/XuBPqkRyUmI/AAAAAAAAC_U/vdRZpO3GhaU__i4YW4xqHpv7op4Gx3TNgCK4BGAYYCw/w800/NOVO%2BLOGOTIPO%2BOLHOS%2BNA%2BTV%2B10.png" group-title="TVolhosnatv", TV UFG
 http://wowza.softhost.com.br:1935/ufg/smil:tvufgweb/chunklist_w1293164907_b694100_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-opsZuKYRSHk/XuBPqkRyUmI/AAAAAAAAC_U/vdRZpO3GhaU__i4YW4xqHpv7op4Gx3TNgCK4BGAYYCw/w800/NOVO%2BLOGOTIPO%2BOLHOS%2BNA%2BTV%2B10.png" group-title="TVolhosnatv", NOME
-LINK
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-opsZuKYRSHk/XuBPqkRyUmI/AAAAAAAAC_U/vdRZpO3GhaU__i4YW4xqHpv7op4Gx3TNgCK4BGAYYCw/w800/NOVO%2BLOGOTIPO%2BOLHOS%2BNA%2BTV%2B10.png" group-title="TVolhosnatv", CANAL FUTURA (UNISC TV)
+https://tv.unisc.br/hls/test.m3u8
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-opsZuKYRSHk/XuBPqkRyUmI/AAAAAAAAC_U/vdRZpO3GhaU__i4YW4xqHpv7op4Gx3TNgCK4BGAYYCw/w800/NOVO%2BLOGOTIPO%2BOLHOS%2BNA%2BTV%2B10.png" group-title="TVolhosnatv", TV UFOP
+https://video-rvd-pe-cdc-gw-4-1.rnp.br/live/ocp(t(Fmjj_PWJYko)r(fVR9ug)a(yU4q5w)p(d(2xc)k(q8U)m(l3F0cwKpPoAi79B4WGiq5Q)n(a(Vvg0Fw)s(KNE)'a(9Wsgrg)s(K-o)))s(s(zdc)b(boRoWzjCiQJqQ0axITrQ-RdMUof8i4COVWwO-26oeby0DqXtZdnitOTvzBi3gu82ecvihpqwOCBeIGh7kQ)'s(Yx4)b(iHV_Mpm_8TnXCroaRABYsB2GzWO1B3OOzksPyKEJh3RyWg-2QkkDn1mY0I6d9u2mBW6uUwWchYAuY-30-sfC-WGY7ICjO5BuxSkN_1MT)'s(ZCY)b(mEzDhtgW))m(0))/q8ev-scy8-9cfa-b8jh_index.m3u8
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-opsZuKYRSHk/XuBPqkRyUmI/AAAAAAAAC_U/vdRZpO3GhaU__i4YW4xqHpv7op4Gx3TNgCK4BGAYYCw/w800/NOVO%2BLOGOTIPO%2BOLHOS%2BNA%2BTV%2B10.png" group-title="TVolhosnatv", UNBTV
+https://video-rvd-pe-cdc-gw-1-2.rnp.br/live/ocp(t(FmjkCfyN4M0)r(fVR9ug)a(yU4q5w)p(d(2xc)k(q8U)m(gCe255BPPmPJvMRt-PdHpg)n(a(KyNFgQ)s(urI)'a(UDxj2Q)s(8TI)))s(s(rc4)b(Ln8bNHMabvNyjBbHKxNPnaC2zoM3pxXPfx3buCFUf3fFIyuoUv2PxJo7wOegJ3L0pOMufRcstacrngQuvA)'s(dT0)b(O1hRHI-7SKaZqyR7VAHM3r3tiIwIpRTmxWpCRF_rx4KbCR5Eu8t727aXnxDRklPRrThHVIfCOAY47WRxhQMcA-vUtw1s8-1mE8JtCaKl)'s(4wg)b(HVaqD0ne))m(0))/unb_index.m3u8
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-opsZuKYRSHk/XuBPqkRyUmI/AAAAAAAAC_U/vdRZpO3GhaU__i4YW4xqHpv7op4Gx3TNgCK4BGAYYCw/w800/NOVO%2BLOGOTIPO%2BOLHOS%2BNA%2BTV%2B10.png" group-title="TVolhosnatv", FUN CANAL
+http://video01.kshost.com.br/luiz68286/luiz68286/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-opsZuKYRSHk/XuBPqkRyUmI/AAAAAAAAC_U/vdRZpO3GhaU__i4YW4xqHpv7op4Gx3TNgCK4BGAYYCw/w800/NOVO%2BLOGOTIPO%2BOLHOS%2BNA%2BTV%2B10.png" group-title="TVolhosnatv", TV POMBAL
+https://stmv1.samcast.com.br/tvpombal/tvpombal/chunklist_w1966931382.m3u8
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-opsZuKYRSHk/XuBPqkRyUmI/AAAAAAAAC_U/vdRZpO3GhaU__i4YW4xqHpv7op4Gx3TNgCK4BGAYYCw/w800/NOVO%2BLOGOTIPO%2BOLHOS%2BNA%2BTV%2B10.png" group-title="TVolhosnatv", WEB TV PROGRESSO
+https://novo.bitstreaming.info:1936/oprogressotvstation/oprogressotvstation/chunklist_w904102106.m3u8
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-opsZuKYRSHk/XuBPqkRyUmI/AAAAAAAAC_U/vdRZpO3GhaU__i4YW4xqHpv7op4Gx3TNgCK4BGAYYCw/w800/NOVO%2BLOGOTIPO%2BOLHOS%2BNA%2BTV%2B10.png" group-title="TVolhosnatv", CLASSIQUE WESTERN TV
+https://stmv1.srvstm.com/classique2/classique2/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-opsZuKYRSHk/XuBPqkRyUmI/AAAAAAAAC_U/vdRZpO3GhaU__i4YW4xqHpv7op4Gx3TNgCK4BGAYYCw/w800/NOVO%2BLOGOTIPO%2BOLHOS%2BNA%2BTV%2B10.png" group-title="TVolhosnatv", CINE TRIANON TV
+https://srv2.zcast.com.br/cleto2085/cleto2085/chunklist_w1995949802.m3u8
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-opsZuKYRSHk/XuBPqkRyUmI/AAAAAAAAC_U/vdRZpO3GhaU__i4YW4xqHpv7op4Gx3TNgCK4BGAYYCw/w800/NOVO%2BLOGOTIPO%2BOLHOS%2BNA%2BTV%2B10.png" group-title="TVolhosnatv", IMPERIAL TV
+https://5b7f3c45ab7c2.streamlock.net/8002/8002/chunklist_w671464372.m3u8
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-opsZuKYRSHk/XuBPqkRyUmI/AAAAAAAAC_U/vdRZpO3GhaU__i4YW4xqHpv7op4Gx3TNgCK4BGAYYCw/w800/NOVO%2BLOGOTIPO%2BOLHOS%2BNA%2BTV%2B10.png" group-title="TVolhosnatv", GENIALL TV
+https://studio.genialltv.com/live/Stream1_360p/chunklist_w549022845.m3u8
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-opsZuKYRSHk/XuBPqkRyUmI/AAAAAAAAC_U/vdRZpO3GhaU__i4YW4xqHpv7op4Gx3TNgCK4BGAYYCw/w800/NOVO%2BLOGOTIPO%2BOLHOS%2BNA%2BTV%2B10.png" group-title="TVolhosnatv", LOADING TV
+https://centurylink.br.cdn.booyah.live/hls/1000001/34850987_720.m3u8
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-opsZuKYRSHk/XuBPqkRyUmI/AAAAAAAAC_U/vdRZpO3GhaU__i4YW4xqHpv7op4Gx3TNgCK4BGAYYCw/w800/NOVO%2BLOGOTIPO%2BOLHOS%2BNA%2BTV%2B10.png" group-title="TVolhosnatv", SUMMER TV
+https://59f1cbe63db89.streamlock.net:1443/summertv/_definst_/summertv/chunklist_w439705387.m3u8
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-opsZuKYRSHk/XuBPqkRyUmI/AAAAAAAAC_U/vdRZpO3GhaU__i4YW4xqHpv7op4Gx3TNgCK4BGAYYCw/w800/NOVO%2BLOGOTIPO%2BOLHOS%2BNA%2BTV%2B10.png" group-title="TVolhosnatv", REDE UTV BRASIL
+https://srv4.zcast.com.br/redetvoficial/redetvoficial/chunklist_w434870210.m3u8
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-opsZuKYRSHk/XuBPqkRyUmI/AAAAAAAAC_U/vdRZpO3GhaU__i4YW4xqHpv7op4Gx3TNgCK4BGAYYCw/w800/NOVO%2BLOGOTIPO%2BOLHOS%2BNA%2BTV%2B10.png" group-title="TVolhosnatv", TV LATINASAT
+https://stmv1.samcast.com.br/joaomatheus5156/joaomatheus5156/chunklist_w396812911.m3u8
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-opsZuKYRSHk/XuBPqkRyUmI/AAAAAAAAC_U/vdRZpO3GhaU__i4YW4xqHpv7op4Gx3TNgCK4BGAYYCw/w800/NOVO%2BLOGOTIPO%2BOLHOS%2BNA%2BTV%2B10.png" group-title="TVolhosnatv", REDE TV SUL
+https://novo.bitstreaming.info:1936/8032/8032/chunklist_w1086037956.m3u8
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-opsZuKYRSHk/XuBPqkRyUmI/AAAAAAAAC_U/vdRZpO3GhaU__i4YW4xqHpv7op4Gx3TNgCK4BGAYYCw/w800/NOVO%2BLOGOTIPO%2BOLHOS%2BNA%2BTV%2B10.png" group-title="TVolhosnatv", TV NATAL
+https://akamai2-br.cdn.booyah.live/hls/1000001/34850987_720.m3u8
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-opsZuKYRSHk/XuBPqkRyUmI/AAAAAAAAC_U/vdRZpO3GhaU__i4YW4xqHpv7op4Gx3TNgCK4BGAYYCw/w800/NOVO%2BLOGOTIPO%2BOLHOS%2BNA%2BTV%2B10.png" group-title="TVolhosnatv", NOME
-LINK
+http://tvnatal.ddns.net:1935/vmix/myStream/chunklist_w216493707.m3u8
 
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-opsZuKYRSHk/XuBPqkRyUmI/AAAAAAAAC_U/vdRZpO3GhaU__i4YW4xqHpv7op4Gx3TNgCK4BGAYYCw/w800/NOVO%2BLOGOTIPO%2BOLHOS%2BNA%2BTV%2B10.png" group-title="TVolhosnatv", NOME
-LINK
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-opsZuKYRSHk/XuBPqkRyUmI/AAAAAAAAC_U/vdRZpO3GhaU__i4YW4xqHpv7op4Gx3TNgCK4BGAYYCw/w800/NOVO%2BLOGOTIPO%2BOLHOS%2BNA%2BTV%2B10.png" group-title="TVolhosnatv", ISTV
+https://stmv1.voxtvhd.com.br/istv/istv/chunklist_w999748192.m3u8
 
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-opsZuKYRSHk/XuBPqkRyUmI/AAAAAAAAC_U/vdRZpO3GhaU__i4YW4xqHpv7op4Gx3TNgCK4BGAYYCw/w800/NOVO%2BLOGOTIPO%2BOLHOS%2BNA%2BTV%2B10.png" group-title="TVolhosnatv", NOME
-LINK
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-opsZuKYRSHk/XuBPqkRyUmI/AAAAAAAAC_U/vdRZpO3GhaU__i4YW4xqHpv7op4Gx3TNgCK4BGAYYCw/w800/NOVO%2BLOGOTIPO%2BOLHOS%2BNA%2BTV%2B10.png" group-title="TVolhosnatv", TV CHANNEL NETWORK
+https://serv3.videovox.pw/alexandre4108/alexandre4108/chunklist_w1368454836.m3u8
 
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-opsZuKYRSHk/XuBPqkRyUmI/AAAAAAAAC_U/vdRZpO3GhaU__i4YW4xqHpv7op4Gx3TNgCK4BGAYYCw/w800/NOVO%2BLOGOTIPO%2BOLHOS%2BNA%2BTV%2B10.png" group-title="TVolhosnatv", NOME
-LINK
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-opsZuKYRSHk/XuBPqkRyUmI/AAAAAAAAC_U/vdRZpO3GhaU__i4YW4xqHpv7op4Gx3TNgCK4BGAYYCw/w800/NOVO%2BLOGOTIPO%2BOLHOS%2BNA%2BTV%2B10.png" group-title="TVolhosnatv", TV MAIS BRASIL
+https://srv5.zcast.com.br/tvmaisbrasil/tvmaisbrasil/chunklist_w1573105238.m3u8
 
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-opsZuKYRSHk/XuBPqkRyUmI/AAAAAAAAC_U/vdRZpO3GhaU__i4YW4xqHpv7op4Gx3TNgCK4BGAYYCw/w800/NOVO%2BLOGOTIPO%2BOLHOS%2BNA%2BTV%2B10.png" group-title="TVolhosnatv", NOME
-LINK
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-opsZuKYRSHk/XuBPqkRyUmI/AAAAAAAAC_U/vdRZpO3GhaU__i4YW4xqHpv7op4Gx3TNgCK4BGAYYCw/w800/NOVO%2BLOGOTIPO%2BOLHOS%2BNA%2BTV%2B10.png" group-title="TVolhosnatv", TV VALE DAS ARTES
+https://59f1cbe63db89.streamlock.net:1443/tvvaledasartes/_definst_/tvvaledasartes/chunklist_w253951037.m3u8
 
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-opsZuKYRSHk/XuBPqkRyUmI/AAAAAAAAC_U/vdRZpO3GhaU__i4YW4xqHpv7op4Gx3TNgCK4BGAYYCw/w800/NOVO%2BLOGOTIPO%2BOLHOS%2BNA%2BTV%2B10.png" group-title="TVolhosnatv", NOME
-LINK
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-opsZuKYRSHk/XuBPqkRyUmI/AAAAAAAAC_U/vdRZpO3GhaU__i4YW4xqHpv7op4Gx3TNgCK4BGAYYCw/w800/NOVO%2BLOGOTIPO%2BOLHOS%2BNA%2BTV%2B10.png" group-title="TVolhosnatv", VINTAGE TV
+https://stmv1.srvstm.com/rogerio4248/rogerio4248/chunklist_w352262998.m3u8
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-opsZuKYRSHk/XuBPqkRyUmI/AAAAAAAAC_U/vdRZpO3GhaU__i4YW4xqHpv7op4Gx3TNgCK4BGAYYCw/w800/NOVO%2BLOGOTIPO%2BOLHOS%2BNA%2BTV%2B10.png" group-title="TVolhosnatv", TV SÉRIES - GUERRA, SOMBRA E ÁGUA FRESCA
+
+https://stmv1.srvif.com/tvserie5/tvserie5/chunklist_w345651153.m3u8
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-opsZuKYRSHk/XuBPqkRyUmI/AAAAAAAAC_U/vdRZpO3GhaU__i4YW4xqHpv7op4Gx3TNgCK4BGAYYCw/w800/NOVO%2BLOGOTIPO%2BOLHOS%2BNA%2BTV%2B10.png" group-title="TVolhosnatv", NOME
 LINK
