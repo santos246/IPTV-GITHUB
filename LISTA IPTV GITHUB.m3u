@@ -358,11 +358,11 @@ http://video01.kshost.com.br/paulispar7372/paulispar7372/chunklist_w1838433459.m
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-opsZuKYRSHk/XuBPqkRyUmI/AAAAAAAAC_U/vdRZpO3GhaU__i4YW4xqHpv7op4Gx3TNgCK4BGAYYCw/w800/NOVO%2BLOGOTIPO%2BOLHOS%2BNA%2BTV%2B10.png" group-title="TVolhosnatv", TVE RS
 http://streaming.procergs.com.br:1935/tve/stve/chunklist_w200098464.m3u8
 
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-opsZuKYRSHk/XuBPqkRyUmI/AAAAAAAAC_U/vdRZpO3GhaU__i4YW4xqHpv7op4Gx3TNgCK4BGAYYCw/w800/NOVO%2BLOGOTIPO%2BOLHOS%2BNA%2BTV%2B10.png" group-title="TVolhosnatv", NOME
-LINK
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-opsZuKYRSHk/XuBPqkRyUmI/AAAAAAAAC_U/vdRZpO3GhaU__i4YW4xqHpv7op4Gx3TNgCK4BGAYYCw/w800/NOVO%2BLOGOTIPO%2BOLHOS%2BNA%2BTV%2B10.png" group-title="TVolhosnatv", TV UNISANTOS
+http://rtmp.cdn.upx.net.br/7550/myStream.sdp/chunklist.m3u8?f95fad055a0c3a7836db3213ed2de13c
 
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-opsZuKYRSHk/XuBPqkRyUmI/AAAAAAAAC_U/vdRZpO3GhaU__i4YW4xqHpv7op4Gx3TNgCK4BGAYYCw/w800/NOVO%2BLOGOTIPO%2BOLHOS%2BNA%2BTV%2B10.png" group-title="TVolhosnatv", NOME
-LINK
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-opsZuKYRSHk/XuBPqkRyUmI/AAAAAAAAC_U/vdRZpO3GhaU__i4YW4xqHpv7op4Gx3TNgCK4BGAYYCw/w800/NOVO%2BLOGOTIPO%2BOLHOS%2BNA%2BTV%2B10.png" group-title="TVolhosnatv", TV UFG
+http://wowza.softhost.com.br:1935/ufg/smil:tvufgweb/chunklist_w1293164907_b694100_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-opsZuKYRSHk/XuBPqkRyUmI/AAAAAAAAC_U/vdRZpO3GhaU__i4YW4xqHpv7op4Gx3TNgCK4BGAYYCw/w800/NOVO%2BLOGOTIPO%2BOLHOS%2BNA%2BTV%2B10.png" group-title="TVolhosnatv", NOME
 LINK
