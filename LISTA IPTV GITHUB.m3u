@@ -1435,17 +1435,17 @@ LINK
 FILMES
 
 
-#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="FILMES", NOME
-LINK
+#EXTINF:-1 tvg-logo="https://mobizoo.com.br/wp-content/uploads/2020/03/assistir-filmes-online-gratis.jpg" group-title="FILMES", Filme de terror
+https://www.googleapis.com/drive/v3/files/1uYmmQoN4Zqq47kNkKRSjRxZjO6dgSN49?alt=media&key=AIzaSyCKN01YADpHeKX5_sO5KhC0XyYYiHQoV_c
 
-#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="FILMES", NOME
-LINK
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71b70uVcDvL._AC_SY550_.jpg" group-title="FILMES", 7ETENTA E 5INCO - TERROR
+https://www.googleapis.com/drive/v3/files/1wOkaFZ87Yqv8o3glzvzBZuZ7LQ2tcg5Z?alt=media&key=AIzaSyCKN01YADpHeKX5_sO5KhC0XyYYiHQoV_c
 
-#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="FILMES", NOME
-LINK
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/medias/nmedia/18/90/67/52/20107757.jpg" group-title="FILMES", 10 Coisas Que Eu Odeio Em Você [1999]
+https://www.googleapis.com/drive/v3/files/1abkKtm9MvEloFyU89MoTbNxZ6C9I2xfk?alt=media&key=AIzaSyCKN01YADpHeKX5_sO5KhC0XyYYiHQoV_c
 
-#EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="FILMES", NOME
-LINK
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-aeqzBNXHTXg/UtrzMvfWvnI/AAAAAAAAN5Y/LJBnxf96rwY/s1600/A+Face+da+Morte+-+P%C3%B4ster.jpg" group-title="FILMES", A FACE DA MORTE -TERROR
+https://www.googleapis.com/drive/v3/files/1X_zKFZMJ-SdkxGPEeXajKnXAcXq9MnGK?alt=media&key=AIzaSyCKN01YADpHeKX5_sO5KhC0XyYYiHQoV_c
 
 #EXTINF:-1 tvg-logo="LINKIMAGEM" group-title="FILMES", NOME
 LINK
